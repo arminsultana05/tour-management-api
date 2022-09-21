@@ -16,6 +16,7 @@ app.get("/", (req, res) => {
 });
 
 // posting to database
+// posting to database
 
 app.use('/api/v1',tourRoute )
 
